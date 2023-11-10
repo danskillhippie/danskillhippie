@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danskillhippie
 - 👀 I’m interested in ... Salesforce Admin and Development, Food.. #Chef #Cooking #Fresh
-- 🌱 I’m currently learning ... Salesforce Development and how to be a nice guy
+- 🌱 I’m currently learning ... Salesforce Development
 - 💞️ I’m looking to collaborate on ... Salesforce Development
 - 📫 How to reach me ... dan@lifesocial.com.au
 
